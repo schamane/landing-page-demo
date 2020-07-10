@@ -4,6 +4,4 @@ Test for build pipeline based on docker
 
 ## Docker image build and publish pipeline
 
-Just test building and publishing 1
-
-See result: ![Docker](https://github.com/schamane/landing-page-demo/workflows/Docker/badge.svg)
+![Docker](https://github.com/schamane/landing-page-demo/workflows/Docker/badge.svg)
