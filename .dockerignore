@@ -2,3 +2,6 @@ public/
 .git/
 .gitmodules/
 .gitignore
+*.md
+*.code-workspace
+.github

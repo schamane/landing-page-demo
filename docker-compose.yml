@@ -4,6 +4,6 @@ services:
 
   landing-page-demo:
     build: ./
-    image: registry.cloud.compulypse.net/schamane/landing-page-demo:1.0.0
+    image: registry.cloud.compulypse.net/schamane/landing-page-demo
     ports:
       - "8084:80"

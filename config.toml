@@ -1,4 +1,4 @@
 baseURL = "http://landing.cloud.myeburg.net/"
-languageCode = "uk"
+languageCode = "en"
 title = "Стартова сторінка"
 theme = "dimension"
