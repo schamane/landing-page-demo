@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "uk-UA"
+title = "Стартова сторінка"
+theme = "dimension"

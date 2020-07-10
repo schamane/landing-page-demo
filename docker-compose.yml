@@ -1,0 +1,9 @@
+version: '3.7'
+
+services:
+
+  landing-page-demo:
+    build: ./
+    image: registry.cloud.compulypse.net/schamane/landing-page-demo:1.0.0
+    ports:
+      - "8084:80"
