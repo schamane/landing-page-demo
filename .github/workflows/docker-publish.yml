@@ -31,8 +31,7 @@ jobs:
           submodules: true
 
       - name: Build image
-        # run: docker build . --file Dockerfile --tag $IMAGE_NAME
-        run: docker-compose build --no-cache --force-rm
+        run: docker build . --file Dockerfile --tag $IMAGE_NAME
 
       - name: Log into registry
         run: echo "${{ secrets.registry_key }}" | docker login $REGISTRY -u ${{ github.actor }} --password-stdin
