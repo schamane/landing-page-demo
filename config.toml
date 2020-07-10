@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "uk-UA"
+baseURL = "http://landing.cloud.myeburg.net/"
+languageCode = "uk"
 title = "Стартова сторінка"
 theme = "dimension"
